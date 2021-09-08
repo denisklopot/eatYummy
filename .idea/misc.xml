@@ -8,8 +8,10 @@
         <entry key="app/src/main/res/drawable/decoration_button_shadowed.xml" value="0.23425925925925925" />
         <entry key="app/src/main/res/drawable/decoration_filled_rounded_shadowel.xml" value="0.1935185185185185" />
         <entry key="app/src/main/res/drawable/decoration_price_shadowed.xml" value="0.1984375" />
+        <entry key="app/src/main/res/drawable/decoration_rounded_4.xml" value="0.45" />
         <entry key="app/src/main/res/drawable/decoration_rounded_green_border.xml" value="0.23425925925925925" />
         <entry key="app/src/main/res/drawable/decoration_rounded_shadowed.xml" value="0.18055555555555555" />
+        <entry key="app/src/main/res/drawable/drawable_third_dish.xml" value="0.2564814814814815" />
         <entry key="app/src/main/res/drawable/ic_close_button.xml" value="0.23425925925925925" />
         <entry key="app/src/main/res/drawable/ic_image_first_dish_background.xml" value="0.23425925925925925" />
         <entry key="app/src/main/res/drawable/ic_image_first_dish_foreground.xml" value="0.23425925925925925" />
@@ -17,7 +19,7 @@
         <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.23425925925925925" />
         <entry key="app/src/main/res/drawable/shape_circle.xml" value="0.23333333333333334" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.9" />
-        <entry key="app/src/main/res/layout/advanced_ui_elements.xml" value="0.4637404580152672" />
+        <entry key="app/src/main/res/layout/advanced_ui_elements.xml" value="0.25" />
         <entry key="app/src/main/res/mipmap-anydpi-v26/drawable_first_dish.xml" value="0.1935185185185185" />
         <entry key="app/src/main/res/mipmap-anydpi-v26/drawable_first_dish_round.xml" value="0.1935185185185185" />
         <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.23425925925925925" />
