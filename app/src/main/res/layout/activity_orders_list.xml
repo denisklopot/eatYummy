@@ -70,6 +70,17 @@
             android:textSize="26sp"
             android:text="Корзина" />
 
+        <TextView
+            android:id="@+id/tvPhoneNumber"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:textSize="10sp"
+            android:textColor="#000000"
+            android:text="Phone number: "
+            app:layout_constraintTop_toBottomOf="@id/tvSecondTitle"
+            app:layout_constraintStart_toStartOf="@id/tvSecondTitle"/>
+
         <androidx.constraintlayout.widget.ConstraintLayout
             android:id="@+id/clFirstDish"
             android:layout_width="match_parent"
