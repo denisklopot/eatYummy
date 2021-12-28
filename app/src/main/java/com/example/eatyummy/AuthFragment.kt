@@ -8,7 +8,7 @@ import androidx.core.widget.doOnTextChanged
 import androidx.fragment.app.Fragment
 import com.example.eatyummy.databinding.FragmentAuthorizationBinding
 
-class AuthFragment : Fragment() {
+class AuthFragment: Fragment() {
 
     private lateinit var binging: FragmentAuthorizationBinding
 
